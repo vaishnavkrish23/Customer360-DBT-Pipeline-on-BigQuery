@@ -1,4 +1,1 @@
-git add LICENSE
-git commit -m "MIT"
-git push origin main  # Replace 'main' with your branch name if different
 
